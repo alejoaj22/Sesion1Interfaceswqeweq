@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sesion1Interfaces</string>
+    <string name="nombre">nombre</string>
+    <string name="apellido">apellido</string>
+    <string name="registro">registro</string>
+    <string name="registrar">Registrar</string>
+    <string name="info">Información digitada</string>
+    <string name="celular">Celular</string>
+    <string name="email">Email</string>
+    <string name="masculino">masculino</string>
+    <string name="femenino">femenino</string>
+    <string name="cine">cine</string>
+    <string name="comer">comer</string>
+    <string name="musica">musica</string>
+    <string name="deporte">deporte</string>
+    <string name="Ciudad">Ciudad</string>
+
+    <string-array name="Ciudad_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
